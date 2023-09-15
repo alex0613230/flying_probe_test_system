@@ -7,6 +7,10 @@ P.S.
 <div align=center><img src ="https://github.com/alex0613230/flying_probe_test_system/blob/main/pic/circuit.png"/></div>
 <br>
 
+# 系統軟體架構
+<div align=center><img src ="https://github.com/alex0613230/flying_probe_test_system/blob/main/pic/sys.png"/></div>
+<br>
+
 # 雛型圖
 <div align=center><img src ="https://github.com/alex0613230/flying_probe_test_system/blob/main/pic/prototype.png"/></div>
 
